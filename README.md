@@ -14,7 +14,8 @@ A modern React application for job seekers and professionals to connect, discuss
 
 ## 🚀 Live Demo
 
-**Deployed App**: [https://KALLURINAVEENKUMAR.github.io/JobCommunity](https://KALLURINAVEENKUMAR.github.io/JobCommunity)
+**Deployed App**: [https://nagalakshmikalluri.github.io/JobCommunityApp](https://nagalakshmikalluri.github.io/JobCommunityApp)
+
 
 ## 📱 Testing Real-time Chat
 

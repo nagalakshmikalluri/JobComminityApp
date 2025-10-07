@@ -2,7 +2,7 @@
   "name": "job-community-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KALLURINAVEENKUMAR.github.io/JobCommunity",
+  "homepage": "https://nagalakshmikalluri.github.io/JobCommunityApp",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/dom": "^10.4.1",

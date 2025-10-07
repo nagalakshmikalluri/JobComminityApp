@@ -26,8 +26,8 @@ const io = socketIo(server, {
     origin: [
       "http://localhost:3000", 
       "http://localhost:3001",
-      "https://kallurinaveenkumar.github.io",
-      "https://KALLURINAVEENKUMAR.github.io"
+      "https://nagalakshmikalluri.github.io",
+      "https://NAGALAKSHMIKALLURI.github.io"
     ],
     methods: ["GET", "POST"]
   }
@@ -38,8 +38,8 @@ app.use(cors({
   origin: [
     "http://localhost:3000", 
     "http://localhost:3001",
-    "https://kallurinaveenkumar.github.io",
-    "https://KALLURINAVEENKUMAR.github.io"
+    "https://nagalakshmikalluri.github.io",
+    "https://NAGALAKSHMIKALLURI.github.io"
   ],
   credentials: true
 }));

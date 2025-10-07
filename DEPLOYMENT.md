@@ -13,7 +13,7 @@
 1. Go to https://railway.app
 2. Sign up with GitHub
 3. Click "New Project" → "Deploy from GitHub repo"
-4. Select your repository: `KALLURINAVEENKUMAR/JobCommunity`
+4. Select your repository: `nagalakshmikalluri/JobCommunityApp`
 5. Add these environment variables:
    - `NODE_ENV`: production
    - `PORT`: 5000
@@ -45,7 +45,7 @@
 ## Testing the Deployment
 1. Visit your Railway/Render backend URL + `/api/health`
 2. Should return a JSON response with status: "healthy"
-3. Test your frontend at: https://kallurinaveenkumar.github.io/JobCommunity/
+3. Test your frontend at: https://nagalakshmikalluri.github.io/JobCommunityApp/
 4. Register users and test real-time chat across different devices/browsers
 
 ## Troubleshooting
